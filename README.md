@@ -32,7 +32,7 @@
 
 <a name="fig3"></a>
 <div align="center">
-<img src="figures/肌电波形可视化.png" width="300" alt="图 3 8 通道肌电波形图"/><br/>
+<img src="figures/肌电波形可视化.png" width="600" alt="图 3 8 通道肌电波形图"/><br/>
 <strong>图 3</strong> 8 通道肌电波形图
 </div>
 
@@ -74,7 +74,7 @@
 
 <a name="fig4"></a>
 <div align="center">
-<img src="figures/模型结构.png" width="300" alt="图 4 模型结构"/><br/>
+<img src="figures/模型结构.png" width="600" alt="图 4 模型结构"/><br/>
 <strong>图 4</strong> 模型结构
 </div>
 
@@ -95,7 +95,7 @@
 
 <a name="fig5"></a>
 <div align="center">
-<img src="figures/激活函数.png" width="300" alt="图 5 激活函数评分图"/><br/>
+<img src="figures/激活函数.png" width="600" alt="图 5 激活函数评分图"/><br/>
 <strong>图 5</strong> 激活函数评分图
 </div>
 
@@ -168,7 +168,7 @@ EMG 动作识别相关研究<sup>\[[7](#cite7)\]</sup>表明，下列手势动�
 
 <a name="fig6"></a>
 <div align="center">
-<img src="figures/17手势.png" width="300" alt="图 6 17 种手势动作具体图片"/><br/>
+<img src="figures/17手势.png" width="600" alt="图 6 17 种手势动作具体图片"/><br/>
 <strong>图 6</strong> 17 种手势动作具体图片
 </div>
 
